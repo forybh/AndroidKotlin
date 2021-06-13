@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883020704966",
+    "project_id": "ybhvoca",
+    "storage_bucket": "ybhvoca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883020704966:android:ecaf9cd4d096549028bbc7",
+        "android_client_info": {
+          "package_name": "com.example.ybhvoca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883020704966-ts6nb553g1mfcvlcr53nkr8tadlk0ujt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9TkPJBg1N5E6R5Aqmx8q770wQUF1fna0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883020704966-ts6nb553g1mfcvlcr53nkr8tadlk0ujt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
